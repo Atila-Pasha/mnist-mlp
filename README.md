@@ -287,3 +287,5 @@ This project is licensed under the MIT License.
 ### ⭐ If you found this project useful, consider giving it a star.
 
 </div>
+
+## The next step is to examine the CNN architecture: [Repo](https://github.com/Atila-Pasha/mnist-cnn)
