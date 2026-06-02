@@ -108,9 +108,9 @@ Each image:
 Clone the repository:
 
 ```bash
-git clone https://github.com/Atila-Pasha/mnist-flow.git
+git clone https://github.com/Atila-Pasha/mnist-mlp.git
 
-cd mnist-flow
+cd mnist-mlp
 ```
 
 Create a virtual environment:
