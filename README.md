@@ -56,7 +56,7 @@ The network used in this project is a fully connected neural network:
 # 📂 Project Structure
 
 ```text
-mnist-flow/
+mnist-mlp/
 │
 ├── data/
 │
